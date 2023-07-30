@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/quizzical/static/css/main.7ec09afc.css",
+    "main.js": "/quizzical/static/js/main.68d2f753.js",
+    "static/js/787.fa62f795.chunk.js": "/quizzical/static/js/787.fa62f795.chunk.js",
+    "index.html": "/quizzical/index.html",
+    "static/media/blueBlobStart.svg": "/quizzical/static/media/blueBlobStart.5a0801127e1ec77c80b57fb7ab867cd6.svg",
+    "static/media/bottomBlobQuiz.svg": "/quizzical/static/media/bottomBlobQuiz.0fdf2214edd292678ba28d9bb071b523.svg",
+    "static/media/yellowBlobStart.svg": "/quizzical/static/media/yellowBlobStart.aab50735d1dbc905f9ed419ced3aabef.svg",
+    "static/media/topBlobQuiz.svg": "/quizzical/static/media/topBlobQuiz.4bace333830676b3a0d0165a59f59863.svg",
+    "main.7ec09afc.css.map": "/quizzical/static/css/main.7ec09afc.css.map",
+    "main.68d2f753.js.map": "/quizzical/static/js/main.68d2f753.js.map",
+    "787.fa62f795.chunk.js.map": "/quizzical/static/js/787.fa62f795.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec09afc.css",
+    "static/js/main.68d2f753.js"
+  ]
+}
