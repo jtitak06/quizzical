@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import Yellow from './images/topBlobQuiz.svg';
 import Blue from './images/bottomBlobQuiz.svg';
-
+import "./styles.css";
 
 function Quiz(props) {
     const [questions, setQuestions] = useState([]);
@@ -39,6 +39,7 @@ function Quiz(props) {
                 )
             })}
             </ul>
+            <button type="submit"></button>
             <img className="bottomBlob" src={Blue} alt="blue-blob" />
         </section>
     )
