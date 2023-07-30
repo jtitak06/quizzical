@@ -50,31 +50,38 @@ body {
   border: none;
 }
 
+.quiz {
+  display: flex;
+
+}
+
 .List {
   list-style: none;
+  padding: 0;
 }
 
 .question {
-  width: 73%;
-  height: 70px;
-  margin: 15px 0;
-  border-bottom: 0.8px #DBDEF0 solid;
+  border-bottom: .8px solid #dbdef0;
+  margin: auto;
+  width: 90%;
+  text-align: center;
 }
 
 .question--title {
-  font-family: 'Karla', sans-serif;
-  font-weight: 700;
-  font-size: 2.9vw;
-  line-height: 4.2vw;
   color: #293264;
-  margin-left: 75px;
+  font-family: Karla,sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 22px;
 }
 
 .question--answers {
   display: flex;
   flex-direction: row;
   list-style: none;
-  margin: 12px 0 15px 75px;
+  margin: auto;
+  justify-content: center;
+  align-items: center;
 }
 
 .question--answers-choice {

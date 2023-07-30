@@ -38,7 +38,6 @@ function Quiz(props) {
                 )
             })}
             </ul>
-            <button type="submit"></button>
             <img className="bottomBlob" src={Blue} alt="blue-blob" />
         </section>
     )
