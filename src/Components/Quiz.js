@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Yellow from './images/topBlobQuiz.svg';
 import Blue from './images/bottomBlobQuiz.svg';
-import "./styles.css";
 
 function Quiz(props) {
     const [questions, setQuestions] = useState([]);
